@@ -1,0 +1,2 @@
+print("prathik")
+hello , mysore
